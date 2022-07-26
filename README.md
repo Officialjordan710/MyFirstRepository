@@ -20,4 +20,6 @@ This application is specifically designed for parents or guardians, however it i
 
 Jordan Taylor of Computer Enterprises Inc. (CEI) will be creating and contributing to this project.
 
-## I don't know
+## Inspiration
+
+This project is to reflect on issues that I run into within my personal life and could use more convenience to solve
