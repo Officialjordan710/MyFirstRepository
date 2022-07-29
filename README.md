@@ -19,6 +19,8 @@ This application is specifically designed for parents or guardians, however it i
 ## Contributors
 
 Jordan Taylor of Computer Enterprises Inc. (CEI) will be creating and contributing to this project.
+Irwin Hurst of Computer Enterprises Inc. (CEI) will be contributing to this project.
+Steven Hook of Computer Enterprises Inc. (CEI) will be contributing to this project.
 
 ## Inspiration
 
