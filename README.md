@@ -24,4 +24,4 @@ Steven Hook of Computer Enterprises Inc. (CEI) will be contributing to this proj
 
 ## Inspiration
 
-This project is to reflect on issues that I run into within my personal life and could use more convenience to solve
+This project is to reflect on issues that I run into within my personal life and could use more convenience to solve 
